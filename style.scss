@@ -187,7 +187,7 @@ label {
 	}
 
 	.beg {
-		font-size: 1.5em;
+		font-size: 1em;
 		padding: .7em;
 	}
 
@@ -210,17 +210,7 @@ label {
 	}
 
 	.ph {
-		width: 25em;
-		height: 37.5em;
-	}
-}
-
-@media (min-width: 1750px) {
-	.ph {
-		width: 40em;
-		height: 60em;
-	}
-	.con {
-		font-size: 1.6em;
+		width: 20em;
+		height: 30em;
 	}
 }
