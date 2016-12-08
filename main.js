@@ -141,7 +141,7 @@ $(document).ready(function() {
 					setTimeout(function() {
 
 						getImg(et.es2, zt.zs1);
-						$(".main h2").text("Кто из них, по вашему мнению, является гомосексуалистом?");
+						$(".main h2").text("Хто з них, на вашу думку, є гомосексуалістом?");
 
 					}, 600);
 
@@ -151,7 +151,7 @@ $(document).ready(function() {
 					setTimeout(function() {
 
 						getImg(zt.zs2, st.se2);
-						$(".main h2").text("Кому из них вы с большей вероятностью засадили бы?");
+						$(".main h2").text("Кому з них ви з запросто засадили б?");
 
 					}, 600);
 
@@ -169,7 +169,7 @@ $(document).ready(function() {
 						$(".h3 .ov").text("процента!");
 					}
 
-					$("h1").text("Вы успешно прошли тест!");
+					$("h1").text("Ви успішно пройшли тест!");
 
 					break;
 			}
